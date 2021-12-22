@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "name": "Rohit Sharma",
+      "username": "hit man",
+      "email": "rohitsharma@gmail.com",
+      "phone": "095495030",
+      "id": 1
+    },
+    {
+      "name": "Rohit Sharma",
+      "username": "hit man",
+      "email": "rohitsharma@gmail.com",
+      "phone": "095495030",
+      "id": 2
+    },
+    {
+      "name": "Rohit Sharma",
+      "username": "hit man",
+      "email": "rohitsharma@gmail.com",
+      "phone": "095495030",
+      "id": 3
+    },
+    {
+      "name": "tokir khokhar",
+      "username": "tofik",
+      "email": "tokir77799@gmail.com",
+      "phone": "+916353003384",
+      "Username": "tofik",
+      "id": 4
+    },
+    {
+      "name": "avadh ",
+      "username": "ar ",
+      "email": "ar07@gmail.com",
+      "phone": "54675467468",
+      "id": 5
+    },
+    {
+      "name": "Tokir Ali Nasir Ali khokhar",
+      "username": "David",
+      "email": "tokir77799@gmail.com",
+      "phone": "+916353003384",
+      "id": 7
+    }
+  ]
+}
